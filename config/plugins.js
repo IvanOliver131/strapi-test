@@ -3,9 +3,9 @@ module.exports = ({ env }) => ({
     enabled: true,
     config: {
       deployHook:
-        "https://api.vercel.com/v1/integrations/deploy/prj_8GTYTvZ7eKXhIUiYkXm69XCcwGWt/Txs3471fnq",
+        "https://api.vercel.com/v1/integrations/deploy/prj_sFrFIrV0sKmpALrljWIckWkTDXKq/PkFBRLiDLH",
       apiToken: "p4KPHEHaYdI2ksYW9W1r1816",
-      appFilter: "e-commerce",
+      appFilter: "strapi-test",
       roles: ["strapi-super-admin", "strapi-editor", "strapi-author"],
     },
   },
